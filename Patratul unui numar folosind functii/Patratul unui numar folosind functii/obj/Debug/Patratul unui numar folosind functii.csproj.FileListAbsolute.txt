@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\bin\Debug\Patratul unui numar folosind functii.exe
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\bin\Debug\Patratul unui numar folosind functii.pdb
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\obj\Debug\Patratul_unui_numar_folosind_functii.Form1.resources
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\obj\Debug\Patratul_unui_numar_folosind_functii.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\obj\Debug\Patratul unui numar folosind functii.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\obj\Debug\Patratul unui numar folosind functii.exe
+D:\MARIA\Programare\Aplicatii\Patratul unui numar folosind functii\Patratul unui numar folosind functii\obj\Debug\Patratul unui numar folosind functii.pdb

@@ -1,0 +1,24 @@
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\ResolveAssemblyReference.cache
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera_cu_raze.Form1.resources
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera_cu_raze.Properties.Resources.resources
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera cu raze.csproj.GenerateResource.Cache
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\bin\Debug\Sfera cu raze.exe
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\bin\Debug\Sfera cu raze.pdb
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera cu raze.exe
+D:\Aia3\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera cu raze.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera cu raze.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera cu raze.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\bin\Debug\Sfera cu raze.exe
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\bin\Debug\Sfera cu raze.pdb
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera_cu_raze.Form1.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera_cu_raze.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Coros Maria\12.12.2018\Sfera cu raze\obj\Debug\Sfera cu raze.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\obj\Debug\Sfera cu raze.exe
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\obj\Debug\Sfera cu raze.pdb
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\bin\Debug\Sfera cu raze.exe
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\bin\Debug\Sfera cu raze.pdb
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\obj\Debug\Sfera_cu_raze.Form1.resources
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\obj\Debug\Sfera_cu_raze.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Sfera cu raze, radar\Sfera cu raze\obj\Debug\Sfera cu raze.csproj.GenerateResource.Cache

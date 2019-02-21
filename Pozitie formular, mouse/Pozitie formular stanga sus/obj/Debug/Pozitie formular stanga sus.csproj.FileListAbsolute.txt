@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\bin\Debug\Pozitie formular stanga sus.exe
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\bin\Debug\Pozitie formular stanga sus.pdb
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\obj\Debug\Pozitie_formular_stanga_sus.Form1.resources
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\obj\Debug\Pozitie_formular_stanga_sus.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\obj\Debug\Pozitie formular stanga sus.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\obj\Debug\Pozitie formular stanga sus.exe
+D:\MARIA\Programare\Aplicatii\Pozitie formular stanga sus\Pozitie formular stanga sus\obj\Debug\Pozitie formular stanga sus.pdb
